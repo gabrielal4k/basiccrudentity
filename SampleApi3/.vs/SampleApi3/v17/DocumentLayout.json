@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|c:\\users\\gabri\\onedrive\\documents\\github\\basiccrudentity\\sampleapi3\\sampleapi3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\dto\\dtostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\dto\\dtostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\dto\\dtosystemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\dto\\dtosystemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\migrations\\20240320101424_migration 1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\migrations\\20240320101424_migration 1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\sampleapi3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:sampleapi3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367179B8-9C5F-4206-A7E6-D59171DB9934}|SampleApi3\\SampleApi3.csproj|solutionrelative:SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240320130348_migration 1.0.1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs",
+              "RelativeToolTip": "SampleApi3\\Migrations\\20240320130348_migration 1.0.1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:03:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SampleApi3\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwGoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:51:26.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOSystemRole.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\DTO\\DTOSystemRole.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\DTO\\DTOSystemRole.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\DTO\\DTOSystemRole.cs",
+              "RelativeToolTip": "SampleApi3\\DTO\\DTOSystemRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:43:43.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SampleApi3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:14:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240320101424_migration 1.0.0.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\20240320101424_migration 1.0.0.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Migrations\\20240320101424_migration 1.0.0.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Migrations\\20240320101424_migration 1.0.0.cs",
+              "RelativeToolTip": "SampleApi3\\Migrations\\20240320101424_migration 1.0.0.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:14:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleApi3\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\appsettings.json",
+              "RelativeToolTip": "SampleApi3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T10:05:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Program.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Program.cs",
+              "RelativeToolTip": "SampleApi3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:02:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTOStudent.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\DTO\\DTOStudent.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\DTO\\DTOStudent.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\DTO\\DTOStudent.cs",
+              "RelativeToolTip": "SampleApi3\\DTO\\DTOStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:59:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SampleApi3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\GitHub\\basiccrudentity\\SampleApi3\\SampleApi3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SampleApi3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:53:07.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

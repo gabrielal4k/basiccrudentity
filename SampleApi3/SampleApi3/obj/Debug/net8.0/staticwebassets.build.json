@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rbPKR9bIa3tg28m+sbxJ9l8FfVP0WOczv2oFeP3NqVc=",
+  "Source": "SampleApi3",
+  "BasePath": "_content/SampleApi3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
